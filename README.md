@@ -2,7 +2,9 @@
 
 Andean Abyss is a board game based on the cartel/farc wars in Colombia for up to four players. It uses the COIN system created by designer Volko Ruhnke.
 
-[GMT Andean Abyss](https://www.boardgamegeek.com/boardgame/91080/andean-abyss)
+[GMT Andean Abyss](https://www.gmtgames.com/p-536-andean-abyss-2nd-printing.aspx)
+
+[BGG page](https://www.boardgamegeek.com/boardgame/91080/andean-abyss)
 
 This is not intented to be an online standalone game. You need a copy of the game to play it. My goal is to program an AI that plays as one of the non-player factions so you don't have to go through the bot flowchart yourself.
 
